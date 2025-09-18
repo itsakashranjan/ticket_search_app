@@ -5,3 +5,4 @@ scikit-learn
 openpyxl
 sentence-transformers
 faiss-cpu==1.7.4
+
