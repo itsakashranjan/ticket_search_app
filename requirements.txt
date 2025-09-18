@@ -1,7 +1,7 @@
 streamlit
 pandas
-numpy
+numpy==1.24.3
 scikit-learn
 openpyxl
 sentence-transformers
-faiss-cpu==1.7.3.post2
+faiss-cpu==1.7.4
