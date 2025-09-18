@@ -4,5 +4,4 @@ numpy
 scikit-learn
 openpyxl
 sentence-transformers
-faiss-cpu==1.7.4
-
+faiss-cpu==1.7.3.post2
