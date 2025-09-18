@@ -4,3 +4,4 @@ numpy
 scikit-learn
 openpyxl
 sentence-transformers
+faiss-cpu
